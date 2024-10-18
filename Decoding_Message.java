@@ -23,8 +23,6 @@ class Decoding_Message {
             char x=(char)num;
             all.put(ch,x);
             num++;
-            
-        
         }
         String ou="";
         for(int i=0;i<message.length();i++){
